@@ -1,0 +1,14 @@
+Hello world
+
+Bash commands:
+git init makes new repo
+ls --help shows everything you can use with ls (like -a)
+
+pico myFile.txt makes a text file
+in the current directory
+
+control or command
+y for yes
+then press enter
+
+Make change to commit
