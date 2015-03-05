@@ -14,3 +14,5 @@ then press enter
 Make change to commit
 
 New change to commit
+
+can type git --help for all commands
