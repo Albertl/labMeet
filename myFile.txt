@@ -12,3 +12,5 @@ y for yes
 then press enter
 
 Make change to commit
+
+New change to commit
